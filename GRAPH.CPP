@@ -24,7 +24,7 @@ int main()
 
 
        }
-       //	line(0,240,650,240);
+     //	line(0,240,650,240);
 	getch();
 	closegraph();
 	return 0;
